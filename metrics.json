@@ -230,7 +230,6 @@
             ["errdroppedtxpktsrate", "netscaler_interface_err_dropped_tx_packets_rate"],
             ["rxpktsrate", "netscaler_interface_rx_packets_rate"],
             ["errifindiscardsrate", "netscaler_interface_err_ifin_discards_rate"],
-            ["errpktrxrate", "netscaler_interface_err_packets_rx_rate"],
             ["nicerrifoutdiscardsrate", "netscaler_interface_err_if_out_discards_rate"],
             ["macmovedrate", "netscaler_interface_mac_moved_rate"],
             ["rxcrcerrorsrate", "netscaler_interface_rx_crc_errors_rate"],
