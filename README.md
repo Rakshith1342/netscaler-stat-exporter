@@ -1,3 +1,10 @@
+Repository Shifted:
+===
+This repository has been shifted to [citrix/netscaler-metrics-exporter](https://github.com/citrix/netscaler-metrics-exporter).
+<br>
+<br>
+<br>
+
 Exporter for NetScaler Stats
 ===
 
