@@ -4,6 +4,12 @@ This repository has been shifted to [citrix/netscaler-metrics-exporter](https://
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+Deprecated Code and Docs:
+===
 
 Exporter for NetScaler Stats
 ===
